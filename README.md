@@ -44,4 +44,4 @@ Open `index.html` in your browser.
 
 ## License
 
-No License.
+No license.
